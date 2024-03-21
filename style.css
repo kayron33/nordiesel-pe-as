@@ -102,7 +102,7 @@ from{margin-left: -100vw;}
 /** parte inicial do site**/
 header{
     
-    background-image: radial-gradient(#937a5294,rgba(134, 45, 45, 0.185));
+    background-color: yellow;
 }
 .header-bottom-side{
     display: flex;
